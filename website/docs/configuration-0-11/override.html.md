@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Override Files - 0.11 Configuration Language"
-sidebar_current: "docs-config-old-override"
+sidebar_current: "docs-oldconfig-override"
 description: |-
   Terraform loads all configuration files within a directory and appends them together. Terraform also has a concept of overrides, a way to create files that are loaded last and merged into your configuration, rather than appended.
 ---
