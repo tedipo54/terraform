@@ -9,8 +9,7 @@ description: |-
 
 # Override Files
 
--> **Note:** This page is about the current version of the Terraform
-configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+-> **Note:** This page is about Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
 [0.11 Configuration Language: Override Files](../configuration-0-11/override.html).
 

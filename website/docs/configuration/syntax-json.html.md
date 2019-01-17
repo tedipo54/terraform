@@ -9,8 +9,7 @@ description: |-
 
 # JSON Configuration Syntax
 
--> **Note:** This page is about the current version of the Terraform
-configuration language, used in Terraform 0.12 and later. The JSON configuration
+-> **Note:** This page is about Terraform 0.12 and later. The JSON configuration
 syntax in 0.11 and earlier was never formally documented. For other information
 about Terraform 0.11 and earlier, see
 [0.11 Configuration Language](../configuration-0-11/index.html).

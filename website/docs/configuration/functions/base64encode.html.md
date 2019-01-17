@@ -8,8 +8,7 @@ description: |-
 
 # `base64encode` Function
 
--> **Note:** This page is about the current version of the Terraform
-configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+-> **Note:** This page is about Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
 [0.11 Configuration Language: Interpolation Syntax](../../configuration-0-11/interpolation.html).
 

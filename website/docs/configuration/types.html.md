@@ -9,8 +9,7 @@ description: |-
 
 # Type Constraints
 
--> **Note:** This page is about the current version of the Terraform
-configuration language, used in Terraform 0.12 and later, and documents a
+-> **Note:** This page is about Terraform 0.12 and later, and documents a
 feature that did not exist in older versions. For other information about
 Terraform 0.11 and earlier, see
 [0.11 Configuration Language](../configuration-0-11/index.html).
