@@ -9,6 +9,12 @@ description: |-
 
 # Type Constraints
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later, and documents a
+feature that did not exist in older versions. For other information about
+Terraform 0.11 and earlier, see
+[0.11 Configuration Language](../configuration-0-11/index.html).
+
 Terraform module authors and provider developers can use detailed type
 constraints to validate user-provided values for their input variables and
 resource arguments. This requires some additional knowledge about Terraform's

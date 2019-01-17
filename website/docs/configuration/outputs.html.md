@@ -8,6 +8,11 @@ description: |-
 
 # Output Values
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Output Values](../configuration-0-11/outputs.html).
+
 Output values are like the return values of a Terraform module, and have several
 uses:
 

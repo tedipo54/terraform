@@ -8,6 +8,11 @@ description: |-
 
 # Modules
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Modules](../configuration-0-11/modules.html).
+
 A _module_ is a container for multiple resources that are used together.
 
 Every Terraform configuration has at least one module, known as its

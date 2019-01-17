@@ -9,6 +9,11 @@ description: |-
 
 # Override Files
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Override Files](../configuration-0-11/override.html).
+
 Terraform normally loads all of the `.tf` and `.tf.json` files within a
 directory and expects each one to define a distinct set of configuration
 objects. If two files attempt to define the same object, Terraform returns
