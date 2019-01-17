@@ -8,6 +8,10 @@ description: |-
 
 # Overrides
 
+-> **Note:** This page is about the older version of the Terraform configuration
+language, used in Terraform 0.11 and earlier. For Terraform 0.12 and later, see
+[Configuration Language: Override Files](../configuration/override.html).
+
 Terraform loads all configuration files within a directory and
 appends them together. Terraform also has a concept of _overrides_,
 a way to create files that are loaded last and _merged_ into your

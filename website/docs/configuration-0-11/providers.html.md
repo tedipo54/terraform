@@ -8,6 +8,10 @@ description: |-
 
 # Provider Configuration
 
+-> **Note:** This page is about the older version of the Terraform configuration
+language, used in Terraform 0.11 and earlier. For Terraform 0.12 and later, see
+[Configuration Language: Providers](../configuration/providers.html).
+
 Providers are responsible in Terraform for managing the lifecycle
 of a [resource](/docs/configuration/resources.html): create,
 read, update, delete.

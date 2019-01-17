@@ -8,6 +8,10 @@ description: |-
 
 # Resource Configuration
 
+-> **Note:** This page is about the older version of the Terraform configuration
+language, used in Terraform 0.11 and earlier. For Terraform 0.12 and later, see
+[Configuration Language: Resources](../configuration/resources.html).
+
 The most important thing you'll configure with Terraform are
 resources. Resources are a component of your infrastructure.
 It might be some low level component such as a physical server,
