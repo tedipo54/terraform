@@ -1,6 +1,6 @@
 ---
 layout: "docs"
-page_title: "Configuring Terraform"
+page_title: "Terraform Settings - 0.11 Configuration Language"
 sidebar_current: "docs-config-old-terraform"
 description: |-
   The `terraform` configuration section is used to configure Terraform itself, such as requiring a minimum Terraform version to execute a configuration.

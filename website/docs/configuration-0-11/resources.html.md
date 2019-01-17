@@ -1,6 +1,6 @@
 ---
 layout: "docs"
-page_title: "Configuring Resources"
+page_title: "Resources - 0.11 Configuration Language"
 sidebar_current: "docs-config-old-resources"
 description: |-
   The most important thing you'll configure with Terraform are resources. Resources are a component of your infrastructure. It might be some low level component such as a physical server, virtual machine, or container. Or it can be a higher level component such as an email provider, DNS record, or database provider.

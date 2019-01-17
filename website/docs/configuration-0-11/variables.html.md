@@ -1,6 +1,6 @@
 ---
 layout: "docs"
-page_title: "Configuring Input Variables"
+page_title: "Input Variables - 0.11 Configuration Language"
 sidebar_current: "docs-config-old-variables"
 description: |-
   Input variables are parameters for Terraform modules.
