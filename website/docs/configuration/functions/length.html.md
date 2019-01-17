@@ -8,6 +8,11 @@ description: |-
 
 # `length` Function
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+
 `length` determines the length of a given list, map, or string.
 
 If given a list or map, the result is the number of elements in that collection.

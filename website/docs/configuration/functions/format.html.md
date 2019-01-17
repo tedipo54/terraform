@@ -9,6 +9,11 @@ description: |-
 
 # `format` Function
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+
 `format` produces a string by formatting a number of other values according
 to a specification string. It is similar to the `printf` function in C, and
 other similar functions in other programming languages.

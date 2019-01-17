@@ -8,6 +8,11 @@ description: |-
 
 # `values` Function
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+
 `values` takes a map and returns a list containing the values of the elements
 in that map.
 

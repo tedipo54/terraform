@@ -9,6 +9,11 @@ description: |-
 
 # `indent` Function
 
+-> **Note:** This page is about the current version of the Terraform
+configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
+earlier, see
+[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+
 `indent` adds a given number of spaces to the beginnings of all but the first
 line in a given multi-line string.
 
