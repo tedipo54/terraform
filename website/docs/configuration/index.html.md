@@ -8,7 +8,7 @@ description: |-
   written in the Terraform language.
 ---
 
-# Configuration
+# Configuration Language
 
 -> **Note:** This page is about the current version of the Terraform
 configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
