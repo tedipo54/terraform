@@ -8,9 +8,8 @@ description: |-
 
 # Terraform Push Configuration
 
--> **Note:** This page is about the older version of the Terraform configuration
-language, used in Terraform 0.11 and earlier, and documents a feature that was
-removed in Terraform 0.12.
+-> **Note:** This page is about Terraform 0.11 and earlier, and documents a
+feature that was removed in Terraform 0.12.
 
 ~> **Important:** The `terraform push` command is deprecated, and only works with [the legacy version of Terraform Enterprise](/docs/enterprise-legacy/index.html). In the current version of Terraform Enterprise, you can upload configurations using the API. See [the docs about API-driven runs](/docs/enterprise/run/api.html) for more details.
 

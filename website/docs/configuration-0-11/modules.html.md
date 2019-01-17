@@ -8,8 +8,8 @@ description: |-
 
 # Module Configuration
 
--> **Note:** This page is about the older version of the Terraform configuration
-language, used in Terraform 0.11 and earlier. For Terraform 0.12 and later, see
+-> **Note:** This page is about Terraform 0.11 and earlier. For Terraform 0.12
+and later, see
 [Configuration Language: Modules](../configuration/modules.html).
 
 Modules are used in Terraform to modularize and encapsulate groups of

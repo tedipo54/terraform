@@ -8,8 +8,8 @@ description: |-
 
 # Terraform Configuration
 
--> **Note:** This page is about the older version of the Terraform configuration
-language, used in Terraform 0.11 and earlier. For Terraform 0.12 and later, see
+-> **Note:** This page is about Terraform 0.11 and earlier. For Terraform 0.12
+and later, see
 [Configuration Language: Terraform Settings](../configuration/terraform.html).
 
 The `terraform` configuration section is used to configure Terraform itself,
