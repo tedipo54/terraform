@@ -12,7 +12,7 @@ description: |-
 -> **Note:** This page is about the current version of the Terraform
 configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
-[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+[0.11 Configuration Language: Interpolation Syntax](../../configuration-0-11/interpolation.html).
 
 `base64sha256` computes the SHA256 hash of a given string and encodes it with
 Base64. This is not equivalent to base64encode(sha256512("test")) since sha512() 

@@ -12,7 +12,7 @@ description: |-
 -> **Note:** This page is about the current version of the Terraform
 configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
-[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+[0.11 Configuration Language: Interpolation Syntax](../../configuration-0-11/interpolation.html).
 
 `matchkeys` constructs a new list by taking a subset of elements from one
 list whose indexes match the corresponding indexes of values in another

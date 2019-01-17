@@ -12,7 +12,7 @@ description: |-
 -> **Note:** This page is about the current version of the Terraform
 configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
-[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+[0.11 Configuration Language: Interpolation Syntax](../../configuration-0-11/interpolation.html).
 
 `transpose` takes a map of lists of strings and swaps the keys and values
 to produce a new map of lists of strings.

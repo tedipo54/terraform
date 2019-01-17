@@ -11,7 +11,7 @@ description: |-
 -> **Note:** This page is about the current version of the Terraform
 configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
-[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+[0.11 Configuration Language: Interpolation Syntax](../../configuration-0-11/interpolation.html).
 
 `signum` determines the sign of a number, returning a number between -1 and
 1 to represent the sign.

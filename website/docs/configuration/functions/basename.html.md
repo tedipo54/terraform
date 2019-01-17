@@ -12,7 +12,7 @@ description: |-
 -> **Note:** This page is about the current version of the Terraform
 configuration language, used in Terraform 0.12 and later. For Terraform 0.11 and
 earlier, see
-[0.11 Configuration Language: Interpolation Syntax](../configuration-0-11/interpolation.html).
+[0.11 Configuration Language: Interpolation Syntax](../../configuration-0-11/interpolation.html).
 
 `basename` takes a string containing a filesystem path and removes all except
 the last portion from it.
