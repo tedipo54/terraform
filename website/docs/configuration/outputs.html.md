@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Output Values - Configuration Language"
-sidebar_current: "docs-config-outputs"
+sidebar_current: "docs-config-new-outputs"
 description: |-
   Output values are the return values of a Terraform module.
 ---

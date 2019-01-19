@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Style Conventions - Configuration Language"
-sidebar_current: "docs-config-style"
+sidebar_current: "docs-config-new-style"
 description: |-
   The Terraform language has some idiomatic style conventions, which we
   recommend users always follow for consistency between files and modules

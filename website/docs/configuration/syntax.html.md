@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Syntax - Configuration Language"
-sidebar_current: "docs-config-syntax"
+sidebar_current: "docs-config-new-syntax"
 description: |-
   The Terraform language has its own syntax, intended to combine declarative
   structure with expressions in a way that is easy for humans to read and

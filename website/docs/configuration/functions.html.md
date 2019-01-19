@@ -1,7 +1,7 @@
 ---
 layout: "functions"
 page_title: "Functions - Configuration Language"
-sidebar_current: "docs-config-functions"
+sidebar_current: "docs-config-new-functions"
 description: |-
   The Terraform language has a number of built-in functions that can be called
   from within expressions to transform and combine values.

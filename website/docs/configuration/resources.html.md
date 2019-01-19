@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Resources - Configuration Language"
-sidebar_current: "docs-config-resources"
+sidebar_current: "docs-config-new-resources"
 description: |-
   Resources are the most important element in a Terraform configuration.
   Each resource corresponds to an infrastructure object, such as a virtual

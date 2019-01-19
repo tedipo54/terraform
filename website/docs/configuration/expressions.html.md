@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Expressions - Configuration Language"
-sidebar_current: "docs-config-expressions"
+sidebar_current: "docs-config-new-expressions"
 description: |-
   The Terraform language allows the use of expressions to access data exported
   by resources and to transform and combine that data to produce other values.

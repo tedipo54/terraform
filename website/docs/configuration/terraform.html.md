@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Terraform Settings - Configuration Language"
-sidebar_current: "docs-config-terraform"
+sidebar_current: "docs-config-new-terraform"
 description: |-
   The "terraform" configuration section is used to configure some behaviors
   of Terraform itself.

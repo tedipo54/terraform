@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Type Constraints - Configuration Language"
-sidebar_current: "docs-config-types"
+sidebar_current: "docs-config-new-types"
 description: |-
   Terraform module authors and provider developers can use detailed type
   constraints to validate the inputs of their modules and resources.
