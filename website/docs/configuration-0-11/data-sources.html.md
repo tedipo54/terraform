@@ -1,7 +1,7 @@
 ---
 layout: "docs"
 page_title: "Data Sources - 0.11 Configuration Language"
-sidebar_current: "docs-oldconfig-data-sources"
+sidebar_current: "docs-config-old-data-sources"
 description: |-
   Data sources allow data to be fetched or computed for use elsewhere in Terraform configuration.
 ---
